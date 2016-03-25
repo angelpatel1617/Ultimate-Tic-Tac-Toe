@@ -1,7 +1,7 @@
 '''
-	TEAM 77
-	Aman Varshney (201402188)
-	Vinay Kumar Singh (201402035)
+	TEAM 62
+	Angel Patel(201402006)
+	Juned Ali(201402091)
 '''
 import random
 import copy
